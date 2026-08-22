@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import{ useEffect, useState } from "react";
 
 const DEFAULT_CARDS = [
   { id: "card-1", label: "Discover" },
@@ -24,7 +24,7 @@ function Hero({ cards = DEFAULT_CARDS }) {
     <main id="hero_page">
       <section id="hero_1">
         <div className="img_layer_1">
-          <img src="" alt="" />
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVCUqT5EaQDhSuPreD7ZtbL_-mmsb22EntRMVO_yT7kw&s=10" alt="" />
           <img src="" alt="" />
           <img src="" alt="" />
           <img src="" alt="" />
