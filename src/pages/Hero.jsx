@@ -40,7 +40,7 @@ function Hero({ cards = DEFAULT_CARDS }) {
           people building, learning, and succeeding together.
         </p>
         <div id="my_buttons">
-          <button onClick={() => location.assign("https://fixmate-ashy.vercel.app")}>
+          <button onClick={() => location.assign("https://x.com/FixMate_io")}>
             Join Our Community
           </button>
         </div>
